@@ -1,5 +1,5 @@
 """
-Backend for the LLM chat micro-service.
+Backend for the LLM chat micro-service .
 
 This is a STARTER skeleton — the structure is here, the engineering is yours.
 Fill in the TODOs. Keep your API key out of git (use .env / .env.example).
